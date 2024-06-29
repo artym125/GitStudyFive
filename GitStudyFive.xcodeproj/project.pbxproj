@@ -11,6 +11,7 @@
 		B50961A02C3094980030A849 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B509619F2C3094980030A849 /* ContentView.swift */; };
 		B50961A22C3094990030A849 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B50961A12C3094990030A849 /* Assets.xcassets */; };
 		B50961A52C3094990030A849 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B50961A42C3094990030A849 /* Preview Assets.xcassets */; };
+		B55B44352C309AB100CF29BE /* StorePropertyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55B44342C309AB100CF29BE /* StorePropertyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B509619F2C3094980030A849 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B50961A12C3094990030A849 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B50961A42C3094990030A849 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B55B44342C309AB100CF29BE /* StorePropertyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorePropertyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B509619D2C3094980030A849 /* GitStudyFiveApp.swift */,
 				B509619F2C3094980030A849 /* ContentView.swift */,
+				B55B44342C309AB100CF29BE /* StorePropertyView.swift */,
 				B50961A12C3094990030A849 /* Assets.xcassets */,
 				B50961A32C3094990030A849 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				B50961A02C3094980030A849 /* ContentView.swift in Sources */,
 				B509619E2C3094980030A849 /* GitStudyFiveApp.swift in Sources */,
+				B55B44352C309AB100CF29BE /* StorePropertyView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
